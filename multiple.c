@@ -8,7 +8,7 @@ int main ()
           printf ("%d*%d=%-4d",j,i,i*j);
       printf ("\n");
     } 
-    return 0;
+    return 0;master modify 
   } 
   111111111 
 
